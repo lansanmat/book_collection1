@@ -1,0 +1,30 @@
+
+---
+ar_internal_metadata:
+  columns:
+  - key
+  - value
+  - created_at
+  - updated_at
+  records: 
+  - - environment
+    - development
+    - 2025-01-26 19:44:51.206928000 Z
+    - 2025-01-26 19:44:51.206928000 Z
+
+---
+books:
+  columns:
+  - id
+  - title
+  - created_at
+  - updated_at
+  records: 
+  - - 1
+    - HelloWorld
+    - 2025-01-26 20:12:44.707602000 Z
+    - 2025-01-26 20:12:44.707602000 Z
+  - - 2
+    - MyBBaby
+    - 2025-01-26 20:13:04.018984000 Z
+    - 2025-01-26 20:13:04.018984000 Z
